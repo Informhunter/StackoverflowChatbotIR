@@ -1,4 +1,0 @@
-numpy
-sklearn
-python-telegram-bot
-
